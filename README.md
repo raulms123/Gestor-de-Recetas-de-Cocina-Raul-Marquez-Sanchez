@@ -9,9 +9,12 @@
 ---
 
 ## 📌 Breve descripción del proyecto  
-El **Gestor de Recetas de Cocina** es una aplicación web desarrollada con Java y Spring Boot que permitirá a los usuarios registrarse, iniciar sesión y crear sus propias recetas de cocina.  
-Los usuarios podrán consultar recetas de otros miembros, marcarlas como favoritas y valorarlas.  
-Los administradores contarán con un panel de gestión para administrar usuarios, recetas y categorías, garantizando el buen funcionamiento de la plataforma.  
+El proyecto consiste en el desarrollo de una aplicación web denominada **Gestor de Recetas de Cocina*'. Esta aplicación permitirá a los usuarios registrarse e iniciar sesión para gestionar sus propias recetas de cocina. Cada receta contendrá información básica como título, ingredientes y pasos de preparación, con la posibilidad de añadir una imagen opcional.
+
+Los usuarios podrán crear, editar y eliminar sus recetas, además de consultar las recetas creadas por otros usuarios. Asimismo, tendrán la opción de marcar recetas como favoritas para acceder a ellas fácilmente más adelante.
+
+La aplicación contará con un rol de administrador, que dispondrá de un panel para gestionar tanto a los usuarios como a las recetas publicadas. Además, se ha decidido enriquecer el modelo con nuevas entidades como categorías y valoraciones, para hacer más completa y realista la aplicación.
+
 
 ---
 
