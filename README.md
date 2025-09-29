@@ -1,8 +1,8 @@
 # 🍲 Gestor de Recetas de Cocina  
 
 **Curso Escolar:** 2025-2026  
-**Autor:** Raul Marquez Sanchez(https://github.com/raulms123)  
-**Tutor:** Francisco Alfonso Leyva García(https://github.com/leyvapaco)
+**Autor:** Raul Marquez Sanchez(https://github.com/raulms123)        
+**Tutor:** Francisco Alfonso Leyva García(https://github.com/leyvapaco)  
 **Fecha de Inicio:** 25-09-2025      
 **Fecha de Finalización:** xxxxx  
 
