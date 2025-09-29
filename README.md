@@ -9,7 +9,7 @@
 ---
 
 ## 📌 Breve descripción del proyecto  
-El proyecto consiste en el desarrollo de una aplicación web denominada **Gestor de Recetas de Cocina*'. Esta aplicación permitirá a los usuarios registrarse e iniciar sesión para gestionar sus propias recetas de cocina. Cada receta contendrá información básica como título, ingredientes y pasos de preparación, con la posibilidad de añadir una imagen opcional.
+El proyecto consiste en el desarrollo de una aplicación web denominada **Gestor de Recetas de Cocina**. Esta aplicación permitirá a los usuarios registrarse e iniciar sesión para gestionar sus propias recetas de cocina. Cada receta contendrá información básica como título, ingredientes y pasos de preparación, con la posibilidad de añadir una imagen opcional.
 
 Los usuarios podrán crear, editar y eliminar sus recetas, además de consultar las recetas creadas por otros usuarios. Asimismo, tendrán la opción de marcar recetas como favoritas para acceder a ellas fácilmente más adelante.
 
@@ -17,6 +17,24 @@ La aplicación contará con un rol de administrador, que dispondrá de un panel 
 
 
 ---
+
+## Alcance del proyecto
+El alcance del proyecto incluye:
+- Autenticación de usuarios (registro, inicio y cierre de sesión).
+- Gestión de roles (usuario y administrador).
+- CRUD completo para la gestión de recetas.
+- Asociación de recetas a categorías.
+- Consulta de recetas de otros usuarios.
+- Marcado de recetas como favoritas.
+- Sistema de valoraciones simples (1-5) sobre las recetas.
+- Panel de administración con gestión de usuarios, recetas y categorías.
+
+No estarán incluidos en esta primera versión:
+- Sistema de comentarios en recetas.
+- Valoración avanzada con reseñas escritas.
+- Notificaciones por correo electrónico.
+- Recomendaciones personalizadas basadas en gustos.
+
 
 ## 🎯 Objetivo de la aplicación  
 - **¿Qué va a hacer la aplicación?**  
